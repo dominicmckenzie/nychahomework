@@ -81,32 +81,32 @@ p,h1,h2{
 }
 
 #sign{
-  right:51%;
-  bottom:33%;
+  right:19%;
+  bottom:66%;
   background-color:rgba(134, 70, 84, 0.7);
 }
 
 #third_floor{
-  right:26%;
-  top:9%;
+  right:33%;
+  top:18%;
   background-color:rgba(195, 103, 20, 0.77);
 }
 
 #total{
-  top: 49%;
-  right: 26%;
+  top: 5%;
+  right: 79%;
   background-color: rgba(53, 27, 27, 0.65);
 }
 
-#thirdworld{
-  top:4%;
-  right: 90%;
+#face{
+  top:21%;
+  right: 55%;
   background-color:rgba(173, 9, 9, 0.65);
 }
 
-#hivstat{
-  top: 57%;
-  right: 79%;
+#mouth{
+  top: 24%;
+  right: 62%;
   background-color: rgba(42, 20, 125, 0.53);
 }
 
